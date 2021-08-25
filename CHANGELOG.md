@@ -3,6 +3,18 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.0.5](https://github.com/MrHBS/testbootify/compare/v0.0.4...v0.0.5) (2021-08-25)
+
+
+### Bug Fixes
+
+* **j:** jhj ([e432175](https://github.com/MrHBS/testbootify/commit/e432175d8efc50267828c8b80e71137502627e17))
+* n ([b743e39](https://github.com/MrHBS/testbootify/commit/b743e398f6c0898dbd36ee9136108113a716b0f2))
+
+
+
+
+
 ## 0.0.4 (2021-08-25)
 
 
