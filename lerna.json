@@ -1,6 +1,7 @@
 {
   "command": {
     "version": {
+      "allowBranch": "main",
       "message": "chore(release): %s"
     }
   },
