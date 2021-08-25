@@ -3,10 +3,6 @@
   "workspaces": [
     "packages/*"
   ],
-  "scripts": {
-    "publish": "lerna publish",
-    "version": "lerna version"
-  },
   "devDependencies": {
     "cz-conventional-changelog": "^3.3.0",
     "lerna": "^4.0.0"
