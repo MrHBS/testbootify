@@ -5,6 +5,11 @@
   "author": "MrHBS <xaxababa300@gmail.com>",
   "homepage": "",
   "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MrHBS/testbootify.git",
+    "directory": "packages/p1"
+  },
   "main": "lib/p1.js",
   "directories": {
     "lib": "lib",

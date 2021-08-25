@@ -3,6 +3,7 @@
   "workspaces": [
     "packages/*"
   ],
+  "repository": "https://github.com/MrHBS/testbootify",
   "devDependencies": {
     "cz-conventional-changelog": "^3.3.0",
     "lerna": "^4.0.0"
