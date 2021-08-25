@@ -1,12 +1,4 @@
-0 silly argv {
-0 silly argv   _: [ 'version' ],
-0 silly argv   lernaVersion: '4.0.0',
-0 silly argv   '$0': 'node_modules\\lerna\\cli.js'
-0 silly argv }
-1 notice cli v4.0.0
-2 verbose rootPath C:\Users\CASANOVA\Documents\vue\vue-bootstrap
-3 silly createGitHubClient
-4 error Error: A GH_TOKEN environment variable is required.
-4 error     at createGitHubClient (C:\Users\CASANOVA\Documents\vue\vue-bootstrap\node_modules\@lerna\github-client\lib\github-client.js:17:11)
-4 error     at createReleaseClient (C:\Users\CASANOVA\Documents\vue\vue-bootstrap\node_modules\@lerna\version\lib\create-release.js:20:14)
-4 error     at VersionCommand.configureProperties (C:\Users\CASANOVA\Documents\vue\vue-bootstrap\node_modules\@lerna\version\index.js:80:58)
+9 error Error: A GH_TOKEN environment variable is required.
+9 error     at createGitHubClient (C:\Users\CASANOVA\Documents\vue\vue-bootstrap\node_modules\@lerna\github-client\lib\github-client.js:17:11)
+9 error     at createReleaseClient (C:\Users\CASANOVA\Documents\vue\vue-bootstrap\node_modules\@lerna\version\lib\create-release.js:20:14)
+9 error     at VersionCommand.configureProperties (C:\Users\CASANOVA\Documents\vue\vue-bootstrap\node_modules\@lerna\version\index.js:80:58)
